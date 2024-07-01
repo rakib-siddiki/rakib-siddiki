@@ -1,11 +1,11 @@
 <img src="https://github.com/rakib-siddiki/rakib-siddiki/blob/dev/cover.jpg?raw=true" alt="">
 <h1 align="center">Hi 👋, I'm Rakib Siddiki</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img  align="right" width="400" alt"image"  src="https://github.com/rakib-siddiki/rakib-siddiki/blob/main/Frontend%20Resume.jpg?raw=true"
+<!-- <img  align="right" width="400" alt"image"  src="https://github.com/rakib-siddiki/rakib-siddiki/blob/main/Frontend%20Resume.jpg?raw=true" -->
+<img align="right" width="400" src="https://github.com/rakib-siddiki/rakib-siddiki/raw/main/Frontend%20Resume.jpg?raw=true" style="max-width: 100%;margin: 10px 0;">
 />
 
-<p align="left"  style="margin-bottom: 20px;" > 
-  <img src="https://komarev.com/ghpvc/?username=rakib-siddiki&label=Profile%20views&color=0e75b6&style=flat" alt="rakib-siddiki"/>
+<p align="left"  > 
   <br/>
  </p>
 
